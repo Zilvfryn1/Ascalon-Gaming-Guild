@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(37, 113, 199);
+    
+}
+h1{
+    margin: 0 auto;
+    width:98%;
+    font-family: 'Tapestry', cursive;
+    font-size: 4rem;
+    color: rgb(92,12 ,12);
+
+}
+
+h2{
+    font-family: 'Comfortaa', cursive;
+    font-size: 2rem;
+    color: rgb(92, 12, 12);
+}
+
+a{
+    font-family: 'Comfortaa', cursive;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#b23e35;
+}
+
+.top-container{
+    background-color: #F76E11;
+    width: 98%;
+    margin: 0 auto 0 auto;
+    padding-top: 20px;
+    font-family: 'Comfortaa', cursive;
+    margin-bottom: 10px;
+}
+
+.middle-container{
+    background-color: #FF9F45;
+    width: 98%;
+    margin: 0 auto 0 auto;
+    margin-bottom: 10px;
+    line-height: 120%;
+    padding-bottom: 15px;
+}
+
+.bottom-container{
+    background-color: #FFBC80;
+    width: 98%;
+    margin: 0 auto 0 auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.discord{
+    padding-right: 5px;
+    padding-left: 2px;
+}
+
+.email-button {
+	box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background-color:#e4685d;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+    margin-bottom: 10px;
+}
+.email-button:hover {
+	background-color:#eb675e;
+}
+.email-button:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link{
+    padding-left: 2.5px;
+    padding-right:2.5px;
+}
+
+#mid-line{
+    margin:50px auto 50px auto;
+    
+}
+
+
